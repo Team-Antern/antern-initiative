@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# I-Invest : Invest in the future
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+I-Invest's mission is to help close the digital divide by connecting people in need with others who can help.
