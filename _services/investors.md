@@ -1,84 +1,60 @@
 ---
-title: "Investors"
+title: "For Investors"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
-
+I-Invest is an initiative by [Antern](antern.co) to help close the digital divide by connecting people in need with others who can help. We strive to make the world a better place by helping people in need to get access to accessories which is required for them to grow and build the future.
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+- To help people in need to get access to accessories which is required for them to grow and build the future.
+- To help investors find the good & young talent and invest in them.
+- To help investors to get the good returns on their investment on people.
+- Remove the middleman and make the process of investment easy and transparent.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## How I-Invest works for Investors?
 
-## Relevance
+We have four step process to make sure you invest in the right person and get the good returns on your investment:
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+1. When you sign-up on I-Invest, you will be asked to fill a form which will help us to understand your investment budget and requirements (don't worry even if you wanna invest 5k, we will help you to find the right person).
+2. We will then match you with the right person based on your requirements.
+3. We go through couple of interview sessions with the person you are investing in and make sure you are investing in the right person.
+4. Once you are happy with the person, we will help you to finalize the agreement of the returns which you will get on your investment.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+> People invest in stocks, which are ofc uncertain, but we invest in people, who are certain.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+While investing stocks, companies, it's really hard to predict the future, but when you invest in people, you can predict the future. We have seen people who are really good at what they do, but they don't have the resources to grow and build the future. We want to help them to get the resources and grow.
 
-## Faithful Representation
+## What kind of returns can an investor can expect?
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+There are several types of returns which investor can ask for with the person they are investing in, some of them are:
 
-## Enhancing Qualitative Characteristics
+1. Getting some percentage of their salary after they get a job for a period of time.
+2. Getting some percentage of their business profits after they start their own business.
+3. Taking help from them in their personal work without paying them.
+4. Lending them as a loan and getting the interest on the loan.
+   and lot more...
 
-### Verifiability
+> Note: You can expect minimum of 2 returns from a person you are investing in.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## How we make sure that the person we are investing in is good?
 
-### Comparability
+### Intense Determination
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Intense determination is the most important thing which makes a person good. If a person is determined to do something, he/she will do it. We have seen people who are really good at what they do, but they don't have the resources to grow and build the future. We want to help them to get the resources and grow.
 
-### Understandability
+### Desperation
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+The factor of desperation is also important. If a person is desperate to do something, he/she will do it like if someone is facing strong financial crisis, he/she will do anything to get out of it.
 
----
+### Passion
 
-## Statement of cash flows
+Passion is the third thing which makes a person good, if they are passionate about what they want to do, you can expect great returns from them/
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+> Note: We do extensive background and identity checks on the person we are investing in.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+## Next Steps?
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Please fill in the form over [here](https://forms.gle/vGH4YbCuTsjJp6Yc8) and we will get back to you as soon as possible.
